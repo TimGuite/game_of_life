@@ -6,3 +6,7 @@ The goal of this package is to write a server-client based implementation with t
 The client will be written in JS and possibly later moved to [Electron](https://www.electronjs.org/).
 
 Where possible, good coding practices will be followed, such as unit tests and performance checks.
+
+# Servers
+
+# Clients
