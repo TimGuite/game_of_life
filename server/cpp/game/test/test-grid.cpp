@@ -1,6 +1,6 @@
 #include "catch.hpp"
 
-#include "grid.h"
+#include "grid.hpp"
 
 TEST_CASE("Test simple grid", "[grid]")
 {

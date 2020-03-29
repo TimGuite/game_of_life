@@ -1,3 +1,3 @@
-#include "grid.h"
+#include "grid.hpp"
 
 Grid update(Grid);

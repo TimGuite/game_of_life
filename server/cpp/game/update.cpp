@@ -2,7 +2,7 @@
 #include <iostream>
 #include <vector>
 
-#include "grid.h"
+#include "grid.hpp"
 
 using namespace std;
 
