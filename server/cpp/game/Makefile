@@ -16,7 +16,8 @@ SRCS=\
 
 TEST_SRCS=\
 	$(TEST_DIR)/tests-main.cpp\
-	grid.cpp
+	grid.cpp\
+	update.cpp
  
 OBJS=$(SRCS:.cpp=.o)
 

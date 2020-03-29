@@ -9,13 +9,11 @@ enum BoundaryCondition
 
 class Grid
 {
-private:
+public:
     std::vector<int> values;
     int rows;
     int columns;
     BoundaryCondition boundaryCondition;
-
-public:
     Grid(std::vector<int>, int, int, BoundaryCondition);
     int value_at(int, int);
     void print();
